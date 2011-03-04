@@ -855,7 +855,6 @@ namespace stdext
 			}
 			else
 			{
-				bitmap_type tmp;
 				_Leaf* leafSrc;
 				for( slotn_t i = 0; i < node->used_slots + 1; ++i)
 				{
